@@ -42,6 +42,7 @@ int main()
 //     return sum;
 // }
 
+// Recursive Solution of Above ^
 int sum_of_array(const int *a, int n)
 {
     if (n == 1)
